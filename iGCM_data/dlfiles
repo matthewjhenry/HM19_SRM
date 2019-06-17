@@ -1,0 +1,18 @@
+#!/bin/csh -f
+
+set guill = /home/mhenry/projects/rrg-tmerlis-ab/mhenry/fms_output/idealized_moist_AM2rad_albedo
+
+foreach n (300ppm 1200ppm 300ppm_S1317 1200ppm_S1317 1200ppm_HS12)
+
+set run = $n
+echo Begin processing output ${guill}/${run} here
+
+mkdir ./${run}
+
+scp 'mhenry@cedar.computecanada.ca:'${guill}/${run}'/history/day_ave.nc' ./${run}
+
+scp 'mhenry@cedar.computecanada.ca:'${guill}/${run}'/surface/surf_ave.nc' ./${run}
+
+echo $run done
+
+end
