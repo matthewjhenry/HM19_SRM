@@ -1,0 +1,6 @@
+./iGCM_data
+./CMIP5_data
+*.pyc
+*.eps
+*.png
+*.nc
