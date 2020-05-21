@@ -1,6 +1,6 @@
-Code related to Henry and Merlis SRM paper.
+[![Zenodo DOI](https://zenodo.org/badge/190785586.svg)](https://zenodo.org/badge/latestdoi/190785586)
 
-[![DOI](https://zenodo.org/badge/190785586.svg)](https://zenodo.org/badge/latestdoi/190785586)
+Code related to Henry and Merlis SRM paper.
 
 Use python notebook to make Main figures, SI figures and table 1 data (at the end of the notebook).
 
