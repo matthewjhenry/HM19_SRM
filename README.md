@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3711989.svg)](https://doi.org/10.5281/zenodo.3711989)
+[![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3711989.svg)](https://doi.org/10.5281/zenodo.3711989)
 
 Code related to Henry and Merlis SRM paper.
 
